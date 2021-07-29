@@ -187,7 +187,8 @@
       "organization": "Organisation",
       "template": "Vorlagen",
       "cars": "Fahrzeuge",
-      "invoices": "Rechnungen"
+      "invoices": "Rechnungen",
+      "tags": "Tags"
     },
     "tooltips": {
       "push_cdr": "CDR senden",

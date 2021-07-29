@@ -187,7 +187,8 @@
       "organization": "Organisation",
       "cars": "Voitures",
       "template": "Modeles",
-      "invoices": "Factures"
+      "invoices": "Factures",
+      "tags": "badges"
     },
     "tooltips": {
       "push_cdr": "Push CDR",

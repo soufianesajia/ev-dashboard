@@ -187,7 +187,8 @@
       "organization": "Organización",
       "template": "Plantillas",
       "cars": "Vehículos",
-      "invoices": "Facturas"
+      "invoices": "Facturas",
+      "tags": "Tags"
     },
     "tooltips": {
       "push_cdr": "Push CDR",
